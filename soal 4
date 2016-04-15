@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	int N, C;
+
+	cout << "masukan angka = ";
+	cin >> N;
+	for (C = 0; C <=N; C=C+5) {
+		cout << C << ",";
+	
+		
+	}
+	
+	system("pause");
+	return 0;
+}
