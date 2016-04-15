@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	int C;
+	for (C = 1; C <= 20; C++)
+	{
+		cout << C << ",";
+	}
+
+	system("pause");
+	return 0;
+}
